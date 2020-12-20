@@ -1,5 +1,5 @@
 # YASIL: Yet Another Stupid, Idiotic Language :)
-This language is the result of a stupid, idiotic idea that I had - What if conway's game of life were a programming language?
+This language is the result of a stupid, idiotic idea that I had - What if there was a programming language that behaved like a cellular automation?
 
 ## How it Works:
 a program is represented as a grid of cells, each of which can either contain a number from 0-9, or these symbols:
